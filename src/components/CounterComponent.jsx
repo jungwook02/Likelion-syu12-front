@@ -34,7 +34,7 @@ const CounterComponent = () => {
 
   return (
     
-      <div id="maincontent">
+      <div className="maincontent">
       <h3 className='intro'>
         <span className='i-box'>
           <p className='i-text'>국내 최대 규모 IT 창업 동아리 멋쟁이 사자처럼</p>

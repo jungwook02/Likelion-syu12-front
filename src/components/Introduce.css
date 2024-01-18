@@ -1,3 +1,13 @@
+.container{
+    position: relative;
+    width: 1536px;
+    height: 317px;
+    
+    background: #FDFDFD;
+
+}
+
+
 .head-box {
     width: 414px;
     height: 40px;
